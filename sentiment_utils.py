@@ -7,9 +7,9 @@
 
 # # Reddit setup
 # reddit = praw.Reddit(
-#     client_id="xSbaqBD_OvYC9bqLPeRAIg",
-#     client_secret="KbzFNldd7S8L8BFOnQV8ZaJJYxLtaQ",
-#     user_agent="Sentiment Analysis by u/getting-thru-it"
+#     client_id="",
+#     client_secret="",
+#     user_agent=""
 # )
 
 # # FinBERT model
